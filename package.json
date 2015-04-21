@@ -1,0 +1,19 @@
+{
+  "name": "reload-require",
+  "version": "1.0.0",
+  "description": "Allows you to trigger reloads of required modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./examples/simple"
+  },
+  "author": "Nicolas Chambrier <naholyr@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lmtm/reload-require.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lmtm/reload-require/issues"
+  },
+  "homepage": "https://github.com/lmtm/reload-require"
+}
